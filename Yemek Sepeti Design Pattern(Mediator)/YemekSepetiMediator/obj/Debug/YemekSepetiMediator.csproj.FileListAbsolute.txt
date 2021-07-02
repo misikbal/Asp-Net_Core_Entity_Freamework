@@ -1,0 +1,7 @@
+C:\Users\ikbal\source\repos\YemekSepetiMediator\YemekSepetiMediator\bin\Debug\YemekSepetiMediator.exe.config
+C:\Users\ikbal\source\repos\YemekSepetiMediator\YemekSepetiMediator\bin\Debug\YemekSepetiMediator.exe
+C:\Users\ikbal\source\repos\YemekSepetiMediator\YemekSepetiMediator\bin\Debug\YemekSepetiMediator.pdb
+C:\Users\ikbal\source\repos\YemekSepetiMediator\YemekSepetiMediator\obj\Debug\YemekSepetiMediator.csprojAssemblyReference.cache
+C:\Users\ikbal\source\repos\YemekSepetiMediator\YemekSepetiMediator\obj\Debug\YemekSepetiMediator.csproj.CoreCompileInputs.cache
+C:\Users\ikbal\source\repos\YemekSepetiMediator\YemekSepetiMediator\obj\Debug\YemekSepetiMediator.exe
+C:\Users\ikbal\source\repos\YemekSepetiMediator\YemekSepetiMediator\obj\Debug\YemekSepetiMediator.pdb
